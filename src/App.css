@@ -1,6 +1,11 @@
-.App {}
+div {
+    background-color: black;
+    color: gold;
+    padding: 40px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
 
-body{
-    
-}
 
+
+  
